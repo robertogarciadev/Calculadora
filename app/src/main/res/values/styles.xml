@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomButtonStyle" parent="Widget.Material3.Button.TextButton">
+        <!-- Cambia el color de fondo -->
+        <item name="android:backgroundTint">@color/grey</item>
+
+        <!-- Cambia el color del texto -->
+        <item name="android:textColor">@color/orange</item>
+
+        <!-- Cambia el tamaño del texto -->
+        <item name="android:textSize">25sp</item>
+
+
+        <!-- Cambia el estilo del texto -->
+        <item name="android:textStyle">bold</item>
+
+        <!-- Configura bordes para MaterialButton (opcional) -->
+        <item name="cornerRadius">10dp</item>
+
+        <item name="fontFamily">monospace</item>
+    </style>
+
+
+    <style name="CustomButtonStyle.equals" parent="CustomButtonStyle">
+        <item name="android:backgroundTint">@color/orange</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CustomButtonStyle.numbers" parent="CustomButtonStyle">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CustomButtonStyle.scientific" parent="CustomButtonStyle">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+
+</resources>
