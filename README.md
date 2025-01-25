@@ -17,9 +17,10 @@ Este repositorio contiene una aplicación de calculadora desarrollada en **Andro
 - **Diseño de UI:** XML
 - **Gestor de dependencias:** Gradle
 
-## Capturas de pantalla
+## Demostración
 
-[![Ver video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/robertogarciadev/calculadora/raw/main/demo-video.mp4)
+[![Ver video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/robertogarciadev/Calculadora/raw/main/demo-video.mp4)
+
 
 ## Instalación
 
