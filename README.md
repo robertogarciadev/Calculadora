@@ -1,4 +1,8 @@
 
+![img-calculator](https://github.com/user-attachments/assets/8309b1b2-b34a-4283-9f3a-b4c876d5ebe1)
+
+
+
 # Calculadora en Android Studio (Kotlin)
 
 Este repositorio contiene una aplicación de calculadora desarrollada en **Android Studio** utilizando el lenguaje de programación **Kotlin**. La calculadora permite realizar operaciones básicas y científicas. Además, mantiene su estado al cambiar la orientación de la pantalla.
