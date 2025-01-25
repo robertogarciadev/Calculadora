@@ -19,7 +19,7 @@ Este repositorio contiene una aplicación de calculadora desarrollada en **Andro
 
 ## Demostración
 
-[![Ver video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/robertogarciadev/Calculadora/raw/main/demo-video.mp4)
+[![Ver video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/robertogarciadev/Calculadora/blob/main/demo-video.mp4)
 
 
 ## Instalación
