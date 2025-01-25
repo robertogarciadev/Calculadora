@@ -18,8 +18,8 @@ Este repositorio contiene una aplicación de calculadora desarrollada en **Andro
 - **Gestor de dependencias:** Gradle
 
 ## Demostración
+https://github.com/user-attachments/assets/b128318a-5627-4389-80fc-a79a198b3c55
 
-[![Ver video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/robertogarciadev/Calculadora/blob/main/demo-video.mp4)
 
 
 ## Instalación
