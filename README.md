@@ -1,7 +1,7 @@
 
 # Calculadora en Android Studio (Kotlin)
 
-Este repositorio contiene una aplicación de calculadora desarrollada en **Android Studio** utilizando el lenguaje de programación **Kotlin**. La calculadora permite realizar operaciones básicas y mantiene su estado al cambiar la orientación de la pantalla.
+Este repositorio contiene una aplicación de calculadora desarrollada en **Android Studio** utilizando el lenguaje de programación **Kotlin**. La calculadora permite realizar operaciones básicas y científicas. Además, mantiene su estado al cambiar la orientación de la pantalla.
 
 ## Características
 
@@ -64,21 +64,10 @@ override fun onRestoreInstanceState(savedInstanceState: Bundle) {
 }
 ```
 
-## Contribución
-
-Si deseas contribuir a este proyecto:
-
-1. Realiza un fork del repositorio.
-2. Crea una rama con tu nueva funcionalidad o mejora: `git checkout -b nueva-funcionalidad`.
-3. Envía un pull request para revisión.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ## Autor
 
-Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
+
+Desarrollado por Roberto García Ciudad-Real.
 
 ---
 
